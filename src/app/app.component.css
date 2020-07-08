@@ -20,7 +20,7 @@
 button {
   font-size: 3rem;
   border-radius: 20%;
-  padding: 30px;
+  padding: 30px 50px 30px 50px;
 }
 
 .btn-info {
@@ -28,7 +28,7 @@ button {
   color: black;
 }
 
-.row {
+.margin-10 {
   margin-top: 20px;
 }
 
